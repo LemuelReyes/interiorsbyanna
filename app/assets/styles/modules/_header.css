@@ -61,7 +61,7 @@ label {
             margin: 0;
         }
     }
-    #toggle:checked + .menu git {
+    #toggle:checked + .menu {
         display: block;
         z-index: 3;
         position: absolute;
