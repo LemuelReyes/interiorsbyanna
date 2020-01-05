@@ -1,11 +1,11 @@
 @font-face {
     font-family: Oswald;
-    src: url('../../fonts/Oswald/Oswald-Bold.ttf') format('truetype');
+    src: url('/app/assets/fonts/Oswald/Oswald-Bold.ttf') format('truetype');
     font-weight: bold;
 }
 
 @font-face {
     font-family: Oswald;
-    src: url('../../fonts/Oswald/Oswald-Extralight.ttf') format('truetype');
+    src: url('/app/assets/fonts/Oswald/Oswald-ExtraLight.ttf') format('truetype');
     font-weight: 100;
 }
